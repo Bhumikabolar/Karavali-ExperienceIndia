@@ -2,6 +2,16 @@
 
 A beautiful, interactive website showcasing the rich culture, heritage, and natural beauty of Udupi and Mangalore in coastal Karnataka, India. Built with React, Tailwind CSS, and Framer Motion for smooth animations and transitions.
 
+## Team & Hackathon
+
+This project was built as part of a hackathon at **NITK Surathkal** by a team of three:
+
+- **Bhumika R Bolar** ([@Bhumikabolar](https://github.com/Bhumikabolar)) — Entire CSS/styling, including layout, image integration, and icon placement across the site
+- **Shrinidhi** ([@kali-kar](https://github.com/kali-kar)) — Core development
+- **Fredrina** — Core development
+
+*This repository is Bhumika's independent copy of the original team project.*
+
 ## Features
 
 - 🎨 **Modern Design**: Clean, elegant design inspired by the Incredible India website
